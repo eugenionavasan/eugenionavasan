@@ -23,4 +23,4 @@ I'm a passionate Full Stack Developer with a strong focus on frontend and mobile
 - He/Him
 
 ## ⚡ Fun fact:
-I love spending time with my dog, and I’m always up for a good tech-related novel. I’m also a big fan of staying up-to-date with the latest industry trends, constantly exploring new ways to enhance user experiences in the apps I build.
+I love spending time with my dog, and I’m always up for a good mistery/fantasy novel. I’m also a big fan of staying up-to-date with the latest industry trends, constantly exploring new ways to enhance user experiences in the apps I build.
