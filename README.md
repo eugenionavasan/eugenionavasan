@@ -3,6 +3,7 @@
 I'm a passionate Full Stack Developer with a strong focus on frontend and mobile development. I specialize in React Native and enjoy creating intuitive, user-friendly applications that deliver seamless experiences across various platforms.
 
 ## 👀 I’m interested in...
+- FrontEnd development
 - Mobile app development with React Native
 - Progressive Web Apps (PWA)
 - AI integration in mobile and web applications
